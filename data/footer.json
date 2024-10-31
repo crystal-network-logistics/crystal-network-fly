@@ -1,7 +1,7 @@
 {
-  "logo": "/images/footer-logo.svg",
+  "logo": "/images/crystal_footer_logo_93x48.png",
   "logo_url": "/",
-  "copyright": "MyCompany. All rights reserved.",
+  "copyright": "Crystal Network Logistics Ltd. All rights reserved.",
   "social": [
     {
       "link": "https://www.facebook.com/mycompany",
@@ -17,7 +17,7 @@
     },
     {
       "link": "https://www.github.com/mycompany",
-      "social_icon": "ph-github-logo"
+      "social_icon": "ph-wechat-logo"
     },
     {
       "link": "https://www.youtube.com/mycompany",
@@ -33,8 +33,8 @@
           "text": "Home"
         },
         {
-          "link": "/features/",
-          "text": "Features"
+          "link": "/services/",
+          "text": "Service"
         },
         {
           "link": "/pricing/",
@@ -50,8 +50,8 @@
       "title": "Community",
       "links": [
         {
-          "link": "/blog/",
-          "text": "Blog"
+          "link": "/news/",
+          "text": "News"
         },
         {
           "link": "/feed.xml",

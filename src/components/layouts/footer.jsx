@@ -12,7 +12,7 @@ export default function Footer({}) {
                   <img src={footer.logo} alt="logo" />
                 </a>
                 <p>
-                  © Copyright <span>{new Date().getFullYear()}</span>{" "}
+                  © <span>{new Date().getFullYear()}</span>{" "}
                   {footer.copyright}
                 </p>
               </div>

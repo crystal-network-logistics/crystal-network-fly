@@ -1,33 +1,29 @@
 {
-  "logo": "/images/logo.svg",
+  "logo": "/images/crystal_logo_32x16.svg",
   "items": [
     {
       "link": "/",
       "text": "Home"
     },
     {
-      "link": "/features/",
-      "text": "Features"
+      "link": "/services/",
+      "text": "Service"
     },
     {
       "link": "/pricing/",
       "text": "Pricing"
     },
     {
+      "link": "/news/",
+      "text": "News"
+    },
+    {
       "link": "/about/",
       "text": "About"
-    },
-    {
-      "link": "/blog/",
-      "text": "Blog"
-    },
-    {
-      "link": "/contact/",
-      "text": "Contact"
     }
   ],
   "btn": {
-    "link": "/signup/",
-    "text": "Get Started"
+    "link": "/contact/",
+    "text": "Contact Us"
   }
 }

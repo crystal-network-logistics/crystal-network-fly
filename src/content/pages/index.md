@@ -11,10 +11,10 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: home/hero
-    title: Beautiful email campaigns
+    title: Your China/ASEAN Logistics Solutions Partner
     description: >-
-      With Sendit, you can quickly create beautiful rich emails that capture a
-      reader's attention, engage them, and convert them into customers.
+      Crystal Network is a subsidiary of the Crystal Logistics Group 
+      which major focus on China/ASEAN Transportations solutions.
     image: /images/hero/hero-image-2.png
     image_alt: Reports dashboard
     button:
